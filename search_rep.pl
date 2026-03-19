@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 use strict;
 use Bio::SeqIO;
-use constant LEN => 30; # repeat length
+use constant LEN => 15; # repeat length
 use constant WIN => 10; # sliding wind size
 use constant ENDFL => 100; # 5' to end of aa seq containing repeat
 
